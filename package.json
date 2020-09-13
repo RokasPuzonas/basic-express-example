@@ -1,0 +1,16 @@
+{
+  "name": "basic-express-example",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1"
+  }
+}
